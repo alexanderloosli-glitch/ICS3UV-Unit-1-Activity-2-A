@@ -1,4 +1,3 @@
-console.log("Hello, World!");
 /** 
 *@author mr loosli
 *@version 1.0.0
@@ -10,4 +9,3 @@ console.log("Hello, World!");
 console.log("Hello, World!");
 
 console.log("\nDone.");
-
