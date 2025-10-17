@@ -1,11 +1,11 @@
 /** 
 *@author mr loosli
 *@version 1.0.0
-*@date 2025-10-14\
-*@ fileoverview A simple program that greets a user by name.
+*@date 2025-10-17\
+*@fileoverview This This program adds two numbers
 */
 
-// print out the greeting 
+// Add 5 + 3
 console.log("Hello, World!");
 
 console.log("\nDone.");
