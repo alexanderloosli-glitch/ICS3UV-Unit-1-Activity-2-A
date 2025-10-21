@@ -1,1 +1,13 @@
+/**
+* @author Mr Loosli
+* @version 1.0.0
+* @date 2025-10-20
+* @fileoverview This is the traditionall "Hello, World!" program.
+*/
+
+// print out the greeting 
 console.log("Hello, World!");
+
+console.log("\nDone.");
+
+
